@@ -1,7 +1,7 @@
 Animated WordPress Image Captions
 ==========
 
-This repository contains the example code for my blogpost "Animierte Image-Caption mit jQuery unter WordPress".
+This repository contains the example code for my blogpost "[Animierte Image-Caption mit jQuery unter WordPress](http://www.emanuel-kluge.de/tutorial/animierte-image-caption-mit-jquery-unter-wordpress/)".
 
 ### [View the Demo](http://www.emanuel-kluge.de/demo/animierte-image-caption-mit-jquery-unter-wordpress/index.html)
 
